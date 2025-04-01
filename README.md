@@ -8,7 +8,7 @@
 
 </div>
 
-Un editor de texto enriquecido con múltiples opciones de formato. Este es el proyecto #2 de mi desafío personal de [100 días de JavaScript](#).
+Un editor de texto enriquecido con múltiples opciones de formato. Este es el proyecto #2 de mi desafío personal de [100 días de JavaScript](https://github.com/gianmattus-programmer/100-DIAS-DE-JS).
 
 <details>
 <summary>✨ Características</summary>
