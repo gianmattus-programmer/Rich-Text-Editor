@@ -69,14 +69,4 @@ Un editor de texto enriquecido con múltiples opciones de formato. Este es el pr
 
 **[@Gianmattus-Programmer](https://github.com/Gianmattus-Programmer)**
 
-<a href="https://www.buymeacoffee.com/gianmattus">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Apoya mi trabajo&emoji=☕&slug=gianmattus&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
-</a>
 
-## 📈 Progreso del desafío
-![Progreso](https://progress-bar.dev/2/?scale=100&title=días&width=500&color=babaca&suffix=%)
-
----
-<div align="center">
-⌨️ con ❤️ por [Gianmattus-Programmer] | 🌟 ¡Dale una estrella si te gustó! 🌟
-</div>
