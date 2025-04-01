@@ -26,7 +26,9 @@ Un editor de texto enriquecido con múltiples opciones de formato. Este es el pr
 
 ## 🚀 Demo en vivo
 
-[¡Prueba el editor aquí!](#)
+[¡Prueba el generador aquí!](#) 
+
+![Screenshot](screenshot.png)
 
 ## 💻 Guía rápida de uso
 
